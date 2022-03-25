@@ -1,5 +1,5 @@
 Project  25/MAR/65        
-   Use Floder Ex to view Example     
+   Use Folder Ex to view Example     
      ( PYTHON ) Tkinter GUI
  
     All Page
