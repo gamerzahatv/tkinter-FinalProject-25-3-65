@@ -1,4 +1,6 @@
-Project  25/MAR/65        Use Floder Ex to view Example      ( PYTHON ) Tkinter GUI
+Project  25/MAR/65        
+   Use Floder Ex to view Example     
+     ( PYTHON ) Tkinter GUI
  
     All Page
 
