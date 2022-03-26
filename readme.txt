@@ -1,6 +1,7 @@
 Project  25/MAR/65        
    Use Folder Ex to view Example     
      ( PYTHON ) Tkinter GUI
+Support Window Platefrom only
  
     All Page
 
